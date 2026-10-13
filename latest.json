@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "keyId": "edba78dd568185755797574f",
+  "payload": {
+    "productId": "com.weiguang.assistant",
+    "platform": "win32",
+    "arch": "x64",
+    "channel": "stable",
+    "version": "0.5.1",
+    "minimumCurrentVersion": "0.4.3",
+    "upstreamVersion": "0.18.58",
+    "publishedAt": "2026-10-13T05:32:23.942Z",
+    "expiresAt": "2027-10-13T05:32:23.943Z",
+    "notes": "升级 OpenWork v0.18.58；加入自动检查、后台下载和重启更新，保留项目、聊天与画布连接。",
+    "installer": {
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.1/WeiguangAssistant-Setup-0.5.1-x64.exe",
+      "size": 429074702,
+      "sha256": "cab3fc23fbd82a9cd45b37fdb711377f5ecccc3765a6cd13907b702f237d2848"
+    }
+  },
+  "signature": "gOfCS1OFmfI1VSVCugQ21VzEdr7ehsCJiPBNcBdnKh5v03J/gUCcYxQ/RXlpJtSFvouLgZTUVJv7XyytohJABw=="
+}
