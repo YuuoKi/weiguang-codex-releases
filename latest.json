@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.5",
+    "version": "0.5.6",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-13T10:43:04.883Z",
-    "expiresAt": "2027-10-13T10:43:04.883Z",
-    "notes": "贴画布链接自动绑定当前项目，显示并刷新任务状态；修复审批短号与生成等待；内部续接摘要默认收起，正常回复更简洁。保留模型、项目、聊天和画布连接。",
+    "publishedAt": "2026-10-13T14:15:04.436Z",
+    "expiresAt": "2027-10-13T14:15:04.436Z",
+    "notes": "修复画布刷新覆盖新绑定、多笔审批互相覆盖和任务状态误报；支持 Markdown 画布链接，补齐无状态 MCP 协议兼容。保留 Key、项目、聊天与三模型高思考配置。本次仅更新桌面客户端；后端、中台及跨权限协同的服务端待办不在本次修复范围。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.5/WeiguangAssistant-Setup-0.5.5-x64.exe",
-      "size": 426317286,
-      "sha256": "3160988de6a43fbf858544f831097beecde6421aa202367be7c6e200e8025553"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.6/WeiguangAssistant-Setup-0.5.6-x64.exe",
+      "size": 426318478,
+      "sha256": "6b5dbda2f696bfa17d006297d415c618ad8b2f2ce387f929d02988d242c8472e"
     }
   },
-  "signature": "O2I+fzqI9UGI9FQ9Vqz0///2OVtGv/SQG0qo6SA0Bgla8rqix/l5fFhB7pxNejMu+lIVuffdCKRr95RQzc6wBA=="
+  "signature": "t/SrNFHc1CFmofFjWqAUVNsgHtMdBuRr3e/zPbwqsOI9sYe0L9GKFLG/wsM1/yyvx5jG+m6LtQfGBfm7XMd+Cg=="
 }
