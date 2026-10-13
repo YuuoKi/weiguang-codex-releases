@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.3",
+    "version": "0.5.4",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-13T06:14:19.111Z",
-    "expiresAt": "2027-10-13T06:14:19.111Z",
-    "notes": "升级 OpenWork v0.18.58；加入自动检查、后台下载和重启更新，保留项目、聊天与画布连接。",
+    "publishedAt": "2026-10-13T07:18:02.033Z",
+    "expiresAt": "2027-10-13T07:18:02.033Z",
+    "notes": "三款模型默认高思考，可切换强度；删除名称后缀，放宽复杂任务输出预算；改进画布素材、引用、分镜与生成检查。保留项目、聊天和画布连接。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.3/WeiguangAssistant-Setup-0.5.3-x64.exe",
-      "size": 426309075,
-      "sha256": "a092a8b4ab51405b302ab70f8e6a73499953f51ab16adac4f8ab84fe730be69f"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.4/WeiguangAssistant-Setup-0.5.4-x64.exe",
+      "size": 426311805,
+      "sha256": "7058448c9b7f0704df81b96f2345b5c2a7c8e560bc5845fc3c3aa75fe3e6df78"
     }
   },
-  "signature": "pTtS33uBm8Tz8kITz2hJcx9pEjZ203RSpNS8mPNxDo/wS4q5drplgy3UlgxeJ1lIB3jr2Ijuq2zOXGbMheuLDA=="
+  "signature": "nCnLUrU4zDhBTltbcjWS04SsPkdpFsVZsGL4IO7ySlNdohZ+YlxyUYMXBHz3XRycEjvyc30WrEIDNOHqprlsCg=="
 }
