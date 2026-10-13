@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.6",
+    "version": "0.5.7",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-13T14:15:04.436Z",
-    "expiresAt": "2027-10-13T14:15:04.436Z",
-    "notes": "修复画布刷新覆盖新绑定、多笔审批互相覆盖和任务状态误报；支持 Markdown 画布链接，补齐无状态 MCP 协议兼容。保留 Key、项目、聊天与三模型高思考配置。本次仅更新桌面客户端；后端、中台及跨权限协同的服务端待办不在本次修复范围。",
+    "publishedAt": "2026-10-13T17:11:15.449Z",
+    "expiresAt": "2027-10-13T17:11:15.449Z",
+    "notes": "已保存配置直接恢复项目，临时断网保留画布绑定；项目画布在当前聊天的内置浏览器打开；界面名称统一为微光 Codex。保留原数据位置和浏览器登录分区，升级后清理已校验的旧包并保留最近回滚。后台重连只检查连接，不重放生成或扣费。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.6/WeiguangAssistant-Setup-0.5.6-x64.exe",
-      "size": 426318478,
-      "sha256": "6b5dbda2f696bfa17d006297d415c618ad8b2f2ce387f929d02988d242c8472e"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.7/WeiguangAssistant-Setup-0.5.7-x64.exe",
+      "size": 426329089,
+      "sha256": "0c36f1175705e97a38a84b3d2622ffefa3098008f6d521f23f269bbe60793595"
     }
   },
-  "signature": "t/SrNFHc1CFmofFjWqAUVNsgHtMdBuRr3e/zPbwqsOI9sYe0L9GKFLG/wsM1/yyvx5jG+m6LtQfGBfm7XMd+Cg=="
+  "signature": "mhHovSK9vwyrW0qj0QUSnCnoID6UaXfi1hrRs6Gft3xWo3mloyFVaGm4A5b/BbYV8ZVSf+tt5NparqHSHnt+Cg=="
 }
