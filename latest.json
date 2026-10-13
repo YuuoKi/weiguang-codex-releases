@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-13T07:18:02.033Z",
-    "expiresAt": "2027-10-13T07:18:02.033Z",
-    "notes": "三款模型默认高思考，可切换强度；删除名称后缀，放宽复杂任务输出预算；改进画布素材、引用、分镜与生成检查。保留项目、聊天和画布连接。",
+    "publishedAt": "2026-10-13T10:43:04.883Z",
+    "expiresAt": "2027-10-13T10:43:04.883Z",
+    "notes": "贴画布链接自动绑定当前项目，显示并刷新任务状态；修复审批短号与生成等待；内部续接摘要默认收起，正常回复更简洁。保留模型、项目、聊天和画布连接。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.4/WeiguangAssistant-Setup-0.5.4-x64.exe",
-      "size": 426311805,
-      "sha256": "7058448c9b7f0704df81b96f2345b5c2a7c8e560bc5845fc3c3aa75fe3e6df78"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.5/WeiguangAssistant-Setup-0.5.5-x64.exe",
+      "size": 426317286,
+      "sha256": "3160988de6a43fbf858544f831097beecde6421aa202367be7c6e200e8025553"
     }
   },
-  "signature": "nCnLUrU4zDhBTltbcjWS04SsPkdpFsVZsGL4IO7ySlNdohZ+YlxyUYMXBHz3XRycEjvyc30WrEIDNOHqprlsCg=="
+  "signature": "O2I+fzqI9UGI9FQ9Vqz0///2OVtGv/SQG0qo6SA0Bgla8rqix/l5fFhB7pxNejMu+lIVuffdCKRr95RQzc6wBA=="
 }
