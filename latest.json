@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.9",
+    "version": "0.5.10",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-14T07:53:50.986Z",
-    "expiresAt": "2027-10-14T07:53:50.987Z",
-    "notes": "修复 Kimi 等模型被错误限制为 64K 上下文：Kimi/Gemini 默认百万上下文，DeepSeek 默认 1M，升级自动迁移旧配置。修复反复压缩上下文，无法恢复时明确暂停。改善附件后的继续输入和叉号删除，保留刚输入的文字。包含前端界面优化；保留项目、聊天、Key 和画布绑定。",
+    "publishedAt": "2026-10-14T08:47:22.013Z",
+    "expiresAt": "2027-10-14T08:47:22.013Z",
+    "notes": "修复重启更新后仍回到旧版本的问题，兼容旧版更新助手。安装失败保留旧程序并明确显示原因，安装后核验目标版本。包含 0.5.9 的 Kimi/Gemini/DeepSeek 百万上下文、反复压缩保护及附件输入删除修复；项目、聊天、Key 和画布绑定保留。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.9/WeiguangAssistant-Setup-0.5.9-x64.exe",
-      "size": 426347629,
-      "sha256": "db2d7299b2b02c737fb7b2b061ba27ac061b4014b5938757137dd097bbb7ed8d"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.10/WeiguangAssistant-Setup-0.5.10-x64.exe",
+      "size": 426354935,
+      "sha256": "051800bf9c87fb1c0cb0b61ea6fa6d07d944486bbebddfb2c46f9a42e8f1be1f"
     }
   },
-  "signature": "H5lo1G//d+8eSl7CdUEzdjhnLW1djkWQXGdhPVRzhIzJ/m6jipJne3+QRmcX+w6ffF8+tctWeBiXP5HCL8T+Cw=="
+  "signature": "xLJpAzRQh1KHUzxcoWKisGe3zLI0kNMpSvXBr5/6ToyxXI401ge+nuOuxzyvesxet9VRwqInhR+11LJflceHAg=="
 }
