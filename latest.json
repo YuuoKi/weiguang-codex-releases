@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.7",
+    "version": "0.5.9",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-13T17:11:15.449Z",
-    "expiresAt": "2027-10-13T17:11:15.449Z",
-    "notes": "已保存配置直接恢复项目，临时断网保留画布绑定；项目画布在当前聊天的内置浏览器打开；界面名称统一为微光 Codex。保留原数据位置和浏览器登录分区，升级后清理已校验的旧包并保留最近回滚。后台重连只检查连接，不重放生成或扣费。",
+    "publishedAt": "2026-10-14T07:53:50.986Z",
+    "expiresAt": "2027-10-14T07:53:50.987Z",
+    "notes": "修复 Kimi 等模型被错误限制为 64K 上下文：Kimi/Gemini 默认百万上下文，DeepSeek 默认 1M，升级自动迁移旧配置。修复反复压缩上下文，无法恢复时明确暂停。改善附件后的继续输入和叉号删除，保留刚输入的文字。包含前端界面优化；保留项目、聊天、Key 和画布绑定。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.7/WeiguangAssistant-Setup-0.5.7-x64.exe",
-      "size": 426329089,
-      "sha256": "0c36f1175705e97a38a84b3d2622ffefa3098008f6d521f23f269bbe60793595"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.9/WeiguangAssistant-Setup-0.5.9-x64.exe",
+      "size": 426347629,
+      "sha256": "db2d7299b2b02c737fb7b2b061ba27ac061b4014b5938757137dd097bbb7ed8d"
     }
   },
-  "signature": "mhHovSK9vwyrW0qj0QUSnCnoID6UaXfi1hrRs6Gft3xWo3mloyFVaGm4A5b/BbYV8ZVSf+tt5NparqHSHnt+Cg=="
+  "signature": "H5lo1G//d+8eSl7CdUEzdjhnLW1djkWQXGdhPVRzhIzJ/m6jipJne3+QRmcX+w6ffF8+tctWeBiXP5HCL8T+Cw=="
 }
