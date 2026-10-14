@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.10",
+    "version": "0.5.11",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-14T08:47:22.013Z",
-    "expiresAt": "2027-10-14T08:47:22.013Z",
-    "notes": "修复重启更新后仍回到旧版本的问题，兼容旧版更新助手。安装失败保留旧程序并明确显示原因，安装后核验目标版本。包含 0.5.9 的 Kimi/Gemini/DeepSeek 百万上下文、反复压缩保护及附件输入删除修复；项目、聊天、Key 和画布绑定保留。",
+    "publishedAt": "2026-10-14T12:30:53.425Z",
+    "expiresAt": "2027-10-14T12:30:53.425Z",
+    "notes": "新增 Gemini 4 Argon，新聊天默认中等思考；四模型最大上下文配置，已有聊天保留选择。优化附件添加后输入和删除，修复运行时 Logo、连续断流重试及画布审批拒绝提示。保留项目、聊天与配置。原现场附件卡死和长任务等待未稳定复现，继续收集反馈。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.10/WeiguangAssistant-Setup-0.5.10-x64.exe",
-      "size": 426354935,
-      "sha256": "051800bf9c87fb1c0cb0b61ea6fa6d07d944486bbebddfb2c46f9a42e8f1be1f"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.11/WeiguangAssistant-Setup-0.5.11-x64.exe",
+      "size": 426370079,
+      "sha256": "b31375f4d3f99071b7dd2a77297044fdab1bfa0adcf6b356ef0060a5405fcac1"
     }
   },
-  "signature": "xLJpAzRQh1KHUzxcoWKisGe3zLI0kNMpSvXBr5/6ToyxXI401ge+nuOuxzyvesxet9VRwqInhR+11LJflceHAg=="
+  "signature": "/edLWD2aNvQdmDchTT671XJUJIjbGW5aSr2rbNEqmJMv28aomBZb5SQojgOB3Z74m9X3jET8Z+s9369w4fJOAA=="
 }
