@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-15T04:35:40.016Z",
-    "expiresAt": "2027-10-15T04:35:40.017Z",
-    "notes": "修复画布MCP交互视图鉴权：原生App连接在内存中复用当前画布凭据，绑定固定接口并拒绝重定向；兼容代理fake-IP解析，保留公共地址与TLS检查。包含中台原生上传、Gemini/画布GPT生图、Seedance技能、默认浏览器、缓存与压缩保护，以及视频“不上传”查看修复。项目、聊天与配置路径保持不变。",
+    "publishedAt": "2026-10-15T18:51:28.658Z",
+    "expiresAt": "2027-10-15T18:51:28.661Z",
+    "notes": "画布弹窗可搜索并点选、新建、贴链接和换绑；深浅色及小窗口文字与操作清楚可见。快速搜索不会绑定旧结果。0.6.1起默认静默检查、下载，连续安全空闲后自动备份并更新重启；实际上传、草稿与后台任务会延后，暂停和失败决定跨重启保留，助手先确认接管，回执原子写入。旧版首次升级仍按原入口完成，新版后续无需主动点击。Windows安装包尚未做代码签名；同事设备需独立复验。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.0/WeiguangAssistant-Setup-0.6.0-x64.exe",
-      "size": 426410265,
-      "sha256": "b1bc1a59f233811930d4a2e184972289cd6b200fbc82fe8a2a7b668010ea0ed6"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.1/WeiguangAssistant-Setup-0.6.1-x64.exe",
+      "size": 426429551,
+      "sha256": "6c56ae68823c57f7e5f76d11d13d422d62f027f012e559caa79b7843cda8c17d"
     }
   },
-  "signature": "GBaTKA14z2e0xxKLLY3ilQATuI+5Nrmr76LhcuEWL3WAE1f/RdTZLO+/FNdMEm7goOQM5+qJoLqb5Upp7pVuCA=="
+  "signature": "EtGLjBPeDw8UHbDNIccAiOQRwdtYZBrBVqFNZTyCTQPJz3jPoWKMtKKLHu91G8YRYSBp4tfikkdXk99mf7NmAQ=="
 }
