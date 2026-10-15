@@ -6,17 +6,17 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.5.11",
+    "version": "0.6.0",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-14T12:30:53.425Z",
-    "expiresAt": "2027-10-14T12:30:53.425Z",
-    "notes": "新增 Gemini 4 Argon，新聊天默认中等思考；四模型最大上下文配置，已有聊天保留选择。优化附件添加后输入和删除，修复运行时 Logo、连续断流重试及画布审批拒绝提示。保留项目、聊天与配置。原现场附件卡死和长任务等待未稳定复现，继续收集反馈。",
+    "publishedAt": "2026-10-15T04:35:40.016Z",
+    "expiresAt": "2027-10-15T04:35:40.017Z",
+    "notes": "修复画布MCP交互视图鉴权：原生App连接在内存中复用当前画布凭据，绑定固定接口并拒绝重定向；兼容代理fake-IP解析，保留公共地址与TLS检查。包含中台原生上传、Gemini/画布GPT生图、Seedance技能、默认浏览器、缓存与压缩保护，以及视频“不上传”查看修复。项目、聊天与配置路径保持不变。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.5.11/WeiguangAssistant-Setup-0.5.11-x64.exe",
-      "size": 426370079,
-      "sha256": "b31375f4d3f99071b7dd2a77297044fdab1bfa0adcf6b356ef0060a5405fcac1"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.0/WeiguangAssistant-Setup-0.6.0-x64.exe",
+      "size": 426410265,
+      "sha256": "b1bc1a59f233811930d4a2e184972289cd6b200fbc82fe8a2a7b668010ea0ed6"
     }
   },
-  "signature": "/edLWD2aNvQdmDchTT671XJUJIjbGW5aSr2rbNEqmJMv28aomBZb5SQojgOB3Z74m9X3jET8Z+s9369w4fJOAA=="
+  "signature": "GBaTKA14z2e0xxKLLY3ilQATuI+5Nrmr76LhcuEWL3WAE1f/RdTZLO+/FNdMEm7goOQM5+qJoLqb5Upp7pVuCA=="
 }
