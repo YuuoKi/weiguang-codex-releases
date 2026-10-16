@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-16T02:09:00.764Z",
-    "expiresAt": "2027-10-16T02:09:00.765Z",
-    "notes": "新项目绑定画布后，无需先发送聊天即可在原生浏览器打开；支持搜索点选、新建、粘贴链接及换绑。画布日期与状态更清楚，首屏加入上传到量子，浏览器控制说明汉化。更新在安全空闲后自动备份安装；网页编辑、弹窗、后台任务和空间不足会延后，聊天、项目和Key保留。固定上游与模型引擎保持原样，未知上游先适配再发布。",
+    "publishedAt": "2026-10-16T03:38:02.362Z",
+    "expiresAt": "2027-10-16T03:38:02.362Z",
+    "notes": "修复慢网下载大安装包时固定15分钟中断的问题；持续传输按包大小给足有界时间，停滞自动重试。保留画布搜索点选、新建、链接与换绑，中台量子上传，安全空闲自动升级及聊天项目保留。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.2/WeiguangAssistant-Setup-0.6.2-x64.exe",
-      "size": 426429938,
-      "sha256": "d7f38e98d71de2da330d52506733b5132a3b34ff8fbc93fd922309f0897369ff",
-      "unpackedSize": 1393597386
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.3/WeiguangAssistant-Setup-0.6.3-x64.exe",
+      "size": 426430168,
+      "sha256": "8def851426a8b2f22d2bed5983360ada33d17fd957268982b6704b025914ee00",
+      "unpackedSize": 1393598458
     }
   },
-  "signature": "PRR3gS/caGQcyvOqj2yzliZNRkkVinVu1BNVplp81kTjB6Dr5BuZSZqgufpU63DGCLcBaFiDBaG54lnM74guCA=="
+  "signature": "jSFtGYEmwOauhf4Fh5Qju6iSOThdyffDl6Jp9AIoVkZIXMmUJ87KOjmK4/zH0NlVE0D4BVvqH5UWfo5zq26zCg=="
 }
