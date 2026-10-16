@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "keyId": "edba78dd568185755797574f",
+  "payload": {
+    "productId": "com.weiguang.assistant",
+    "platform": "win32",
+    "arch": "x64",
+    "channel": "stable",
+    "version": "0.6.3",
+    "minimumCurrentVersion": "0.4.3",
+    "upstreamVersion": "0.18.58",
+    "publishedAt": "2026-10-16T03:29:06.950Z",
+    "expiresAt": "2027-10-16T03:29:06.950Z",
+    "notes": "修复慢网下载大安装包时固定15分钟中断的问题；持续传输按包大小给足有界时间，停滞自动重试。保留画布搜索点选、新建、链接与换绑，中台量子上传，安全空闲自动升级及聊天项目保留。",
+    "installer": {
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.3/WeiguangAssistant-Setup-0.6.3-x64.exe",
+      "size": 426430168,
+      "sha256": "8def851426a8b2f22d2bed5983360ada33d17fd957268982b6704b025914ee00",
+      "unpackedSize": 1393598458
+    }
+  },
+  "signature": "lHNbKJPz8zFBIrD9npePfzwSKxIz1N24wEs7hNjdwxhLo2rv6GipFDDUHYD3wr2DRuj/XJn2YMFL5PGJxDaVCQ=="
+}
