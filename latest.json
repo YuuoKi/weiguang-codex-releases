@@ -6,17 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-15T18:51:28.658Z",
-    "expiresAt": "2027-10-15T18:51:28.661Z",
-    "notes": "画布弹窗可搜索并点选、新建、贴链接和换绑；深浅色及小窗口文字与操作清楚可见。快速搜索不会绑定旧结果。0.6.1起默认静默检查、下载，连续安全空闲后自动备份并更新重启；实际上传、草稿与后台任务会延后，暂停和失败决定跨重启保留，助手先确认接管，回执原子写入。旧版首次升级仍按原入口完成，新版后续无需主动点击。Windows安装包尚未做代码签名；同事设备需独立复验。",
+    "publishedAt": "2026-10-16T02:09:00.764Z",
+    "expiresAt": "2027-10-16T02:09:00.765Z",
+    "notes": "新项目绑定画布后，无需先发送聊天即可在原生浏览器打开；支持搜索点选、新建、粘贴链接及换绑。画布日期与状态更清楚，首屏加入上传到量子，浏览器控制说明汉化。更新在安全空闲后自动备份安装；网页编辑、弹窗、后台任务和空间不足会延后，聊天、项目和Key保留。固定上游与模型引擎保持原样，未知上游先适配再发布。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.1/WeiguangAssistant-Setup-0.6.1-x64.exe",
-      "size": 426429551,
-      "sha256": "6c56ae68823c57f7e5f76d11d13d422d62f027f012e559caa79b7843cda8c17d"
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.2/WeiguangAssistant-Setup-0.6.2-x64.exe",
+      "size": 426429938,
+      "sha256": "d7f38e98d71de2da330d52506733b5132a3b34ff8fbc93fd922309f0897369ff",
+      "unpackedSize": 1393597386
     }
   },
-  "signature": "EtGLjBPeDw8UHbDNIccAiOQRwdtYZBrBVqFNZTyCTQPJz3jPoWKMtKKLHu91G8YRYSBp4tfikkdXk99mf7NmAQ=="
+  "signature": "PRR3gS/caGQcyvOqj2yzliZNRkkVinVu1BNVplp81kTjB6Dr5BuZSZqgufpU63DGCLcBaFiDBaG54lnM74guCA=="
 }
