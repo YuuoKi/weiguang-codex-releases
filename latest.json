@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.4",
+    "version": "0.6.5",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-16T08:48:32.475Z",
-    "expiresAt": "2027-10-16T08:48:32.476Z",
-    "notes": "修复画布离线误判、代理超时、绑定恢复、模型档位显示、原生网页遮挡弹窗菜单及工具完成状态。保留聊天项目，默认后台检查下载、安全空闲升级。",
+    "publishedAt": "2026-10-19T10:15:21.684Z",
+    "expiresAt": "2027-10-19T10:15:21.684Z",
+    "notes": "画布创作连续执行，取消额外费用和次数审批门槛；新增双屏演示、真实状态反馈和自动排版，修复未知结果防重、连接恢复、停止后的迟到操作与取消显示。投屏随项目换绑，未同步修改确认不再阻塞主窗口。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.4/WeiguangAssistant-Setup-0.6.4-x64.exe",
-      "size": 426431193,
-      "sha256": "cb46a1c67e639f446ac1bc7add87bb48ecdd88f9717a7de08d3943c9ec150680",
-      "unpackedSize": 1393605502
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.5/WeiguangAssistant-Setup-0.6.5-x64.exe",
+      "size": 426575400,
+      "sha256": "b724cafcf15a8ae89a1c19e1e6c1cfcfcddd8d3200f9b5869264d8abcecc1880",
+      "unpackedSize": 1394021345
     }
   },
-  "signature": "wzX3WqQWm2rjU+qRkoYkS/arwNoiDXBucZIpKUuX5HjhbK/4WoOKDCWMib25EYEG1VSRIUsZoWaZQss2dykGBg=="
+  "signature": "3SCTrqraVjJCMIg2/sDb4cGE6iv0iaR/p51DLPOWfa+eDI0oS53EMKJXhOXT0RP8QbISh114oNdTgnXpLQf2Cw=="
 }
