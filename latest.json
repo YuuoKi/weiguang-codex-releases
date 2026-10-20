@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.7",
+    "version": "0.6.8",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-20T06:38:07.041Z",
-    "expiresAt": "2027-10-20T06:38:07.042Z",
-    "notes": "新增产品视频方法与可恢复执行清单；改进当前聊天进度、实时画布展示和关闭后保存。修复默认项目就绪、换绑刷新、图片格式兼容及状态误报。项目、聊天、Key和原数据路径保留。",
+    "publishedAt": "2026-10-20T12:43:29.330Z",
+    "expiresAt": "2027-10-20T12:43:29.331Z",
+    "notes": "修复新建任务后已读取的历史对话从侧栏消失；历史列表加载失败时明确提示并可重新加载，不打断当前聊天。包含已合入主线的产品视频清单校验、中文工具回执和减少重复追问调整。保持原项目、聊天、Key与数据目录，升级前自动备份，程序替换失败保留回滚。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.7/WeiguangAssistant-Setup-0.6.7-x64.exe",
-      "size": 426610361,
-      "sha256": "7e8a9f4c14aad810a1ce7cb9a3fd3a2caeb8998505aa29d9f6919d48f300d34a",
-      "unpackedSize": 1394263583
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.8/WeiguangAssistant-Setup-0.6.8-x64.exe",
+      "size": 426611080,
+      "sha256": "1489c11f27fe11543edcf00d8a67c9a80bca90e89d68b4e7fda57a6502af2341",
+      "unpackedSize": 1394267851
     }
   },
-  "signature": "8/uWcbTIAGStpjZnEPm4ZyirZ37wHui2ObAZaWT6D8D03vKEMgjD9BTcGkXMzAF2gsgiPdF8VZnM656QHgy3Ag=="
+  "signature": "RN/uQ8yjUA/b7jcI6iPOJjhEbU5MUdA4iFZXjiVJ88s/SRjs4x2HWKdJSxjnoU/i6tDKrAsOeufYo0iAlEBSDQ=="
 }
