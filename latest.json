@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.10",
+    "version": "0.6.11",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-22T03:41:31.206Z",
-    "expiresAt": "2027-10-22T03:41:31.207Z",
-    "notes": "画布创作接入任务记录、七种产品起手配方、同版约束与复核；修复更新一直等待空闲的问题。新版就绪10秒后自动备份并重启，手动重启立即执行，任务或草稿不再挡住升级。保留签名与摘要校验、空间检查、主动暂停、聊天与配置备份及失败回滚。",
+    "publishedAt": "2026-10-22T06:38:35.213Z",
+    "expiresAt": "2027-10-22T06:38:35.214Z",
+    "notes": "修复改稿后旧视频复核误用新版要求、真实生成回执的任务号未进入返工账。旧版有对应依据时按旧版核对，缺少依据时明确未复核；修正用户返工关联，草稿整理不多记返工。保留复核缓存、生成防重、自动更新校验与备份。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.10/WeiguangAssistant-Setup-0.6.10-x64.exe",
-      "size": 426694538,
-      "sha256": "364c6023577d0fac674e0ed314da43fac14443e5a62ffa22cffa82e23f31ee79",
-      "unpackedSize": 1394673468
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.11/WeiguangAssistant-Setup-0.6.11-x64.exe",
+      "size": 426694865,
+      "sha256": "f7236ca39af56a54380d2ae39ca2b10d52dcd6cda918c5d41d00c89f7f1035e7",
+      "unpackedSize": 1394675190
     }
   },
-  "signature": "I32gZ1utw1UiC9hk1DP+vX6u2LEvJLYghxSqBa/oJ0QX9/17LJDavuRD7AtB4Goe/Q/d7WzBfhesqP0lq//PDA=="
+  "signature": "jHdiXuXMF/yrqy9WliZ1nLzC9GB3Xhbxcxw+MWucfgK+Qbr2YrYjxsCGqG2qUl5kOV/NH5iuPotwCoewfwpkBg=="
 }
