@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.9",
+    "version": "0.6.10",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-21T14:26:00.707Z",
-    "expiresAt": "2027-10-21T14:26:00.708Z",
-    "notes": "新增视频跨轮记忆、参考图自动入画布与复用、成片复核和量子代传修复流程；优化生成等待，统一模型顺序、中文档位和四张起手卡，支持单屏旁显与双屏投屏。修复上传前置检查误触发音轨分析，以及未绑定项目首轮已点名产品仍要求手动绑定的问题。保持原项目、聊天、Key及数据目录。部分上游工具行仍显示英文；AI复核不代表人工视听验收。",
+    "publishedAt": "2026-10-22T03:41:31.206Z",
+    "expiresAt": "2027-10-22T03:41:31.207Z",
+    "notes": "画布创作接入任务记录、七种产品起手配方、同版约束与复核；修复更新一直等待空闲的问题。新版就绪10秒后自动备份并重启，手动重启立即执行，任务或草稿不再挡住升级。保留签名与摘要校验、空间检查、主动暂停、聊天与配置备份及失败回滚。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.9/WeiguangAssistant-Setup-0.6.9-x64.exe",
-      "size": 426639392,
-      "sha256": "173c327845e5c473a1926ba1ef876c866c8955d047295fc5f09186c570a279f1",
-      "unpackedSize": 1394471780
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.10/WeiguangAssistant-Setup-0.6.10-x64.exe",
+      "size": 426694538,
+      "sha256": "364c6023577d0fac674e0ed314da43fac14443e5a62ffa22cffa82e23f31ee79",
+      "unpackedSize": 1394673468
     }
   },
-  "signature": "464kKNwmbMm4ciIRp7t9l//s5tRYTUoCorjWKmZPgyXxK7JFoT7xHjtYaW2DTFdzFtYm7qnv7GNnPMqqOclPDg=="
+  "signature": "I32gZ1utw1UiC9hk1DP+vX6u2LEvJLYghxSqBa/oJ0QX9/17LJDavuRD7AtB4Goe/Q/d7WzBfhesqP0lq//PDA=="
 }
