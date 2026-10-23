@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-23T04:26:19.084Z",
-    "expiresAt": "2027-10-23T04:26:19.085Z",
-    "notes": "本次素材链按依赖和实际尺寸排版；首次创作提前准备空画布；演示可退出全屏、最小化、回聊天；指引按需读取；安装提交后的空目录清理失败不再撤回升级。",
+    "publishedAt": "2026-10-23T07:37:32.412Z",
+    "expiresAt": "2027-10-23T07:37:32.413Z",
+    "notes": "修复默认模型带入其他模型不支持的档位，以及修改当前聊天档位同时影响全局默认的问题。已有聊天选择、项目与画布配置继续保留。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.0/WeiguangAssistant-Setup-0.7.0-x64.exe",
-      "size": 426720162,
-      "sha256": "0a1d088a511812e0048e920e51d5855dcd75e591278878e8f676320fe09753d8",
-      "unpackedSize": 1394740206
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.1/WeiguangAssistant-Setup-0.7.1-x64.exe",
+      "size": 426724621,
+      "sha256": "013ea4d4fa8d9c3d1774225140436c69dba73fadec8017a4cc755945fd2da9f6",
+      "unpackedSize": 1394739352
     }
   },
-  "signature": "rCHfBysCR3jRgvGievEYah5yGuJ8r0Zh4+zbxrdpXQF2uMcwpkfFno0lJ9KugV+Dui3/F3b5IcUkzyVveGMQDQ=="
+  "signature": "lupmVAaWbF6MEcKpebwzbRZTnS1GscMH+FX7JlhHMF2BvA1p6Lw8YePQLJujS0JRg32Ya7dI5rw0i2Xlk4fTBA=="
 }
