@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.6.12",
+    "version": "0.7.0",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.58",
-    "publishedAt": "2026-10-22T20:47:54.797Z",
-    "expiresAt": "2027-10-22T20:47:54.798Z",
-    "notes": "系列图按各张所需参考制作，避免混入其他角色；优先复用定稿、局部改稿和独立镜头素材，短微动不强套整片。原件文件头核对交付格式，视频素材按真实来源任务复核；保留停止、防重、旧版依据、原数据目录和自动更新备份。",
+    "publishedAt": "2026-10-23T04:26:19.084Z",
+    "expiresAt": "2027-10-23T04:26:19.085Z",
+    "notes": "本次素材链按依赖和实际尺寸排版；首次创作提前准备空画布；演示可退出全屏、最小化、回聊天；指引按需读取；安装提交后的空目录清理失败不再撤回升级。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.6.12/WeiguangAssistant-Setup-0.6.12-x64.exe",
-      "size": 426699649,
-      "sha256": "4f4e75c79f2a87b93ccdc9446807202cf8636ddd1457e9d381bb177d8b52f0b5",
-      "unpackedSize": 1394688518
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.0/WeiguangAssistant-Setup-0.7.0-x64.exe",
+      "size": 426720162,
+      "sha256": "0a1d088a511812e0048e920e51d5855dcd75e591278878e8f676320fe09753d8",
+      "unpackedSize": 1394740206
     }
   },
-  "signature": "nOM0R4pYICCv0NJp6efhSBmad1vL90rm+oHWoazJuFvqPil7h+SkZliCqwxxYfPNS41di/6p3T5rCMYj48UwBw=="
+  "signature": "rCHfBysCR3jRgvGievEYah5yGuJ8r0Zh4+zbxrdpXQF2uMcwpkfFno0lJ9KugV+Dui3/F3b5IcUkzyVveGMQDQ=="
 }
