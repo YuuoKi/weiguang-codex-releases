@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.7.4",
+    "version": "0.7.5",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.60",
-    "publishedAt": "2026-10-28T17:42:04.023Z",
-    "expiresAt": "2027-10-28T17:42:04.024Z",
-    "notes": "默认模型改为 GPT-6.1 Terra（高推理档）；已明确选择的模型和档位保持不变，Terra 不可用时自动用原模型。生成前检查 Seedance 参考图、视频、音频的数量与时长，超限在报价前拦下；产品优先从画布游戏标签识别；画布没选游戏时不扣费，提示先设置标签再重提同一节点。读取画布和图片设上限，超大图片读预览。微光菜单新增 Terra 快速模式开关（默认关）。",
+    "publishedAt": "2026-10-28T19:04:02.769Z",
+    "expiresAt": "2027-10-28T19:04:02.771Z",
+    "notes": "新聊天默认改回 Gemini 3.8 Flash（中档）。0.7.4 自动换成 Terra 的默认改回 Flash，你自己选过的模型和档位不变；Terra 仍可在模型菜单里选。已有聊天不改。0.7.4 的生成防护、产品识别和大图预览全部保留。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.4/WeiguangAssistant-Setup-0.7.4-x64.exe",
-      "size": 314660533,
-      "sha256": "3e25d5cfa15796fc370ff7f3cd6b97a9a1fc0856691e52c1c9dd5580f8c57c9c",
-      "unpackedSize": 1092072442
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.5/WeiguangAssistant-Setup-0.7.5-x64.exe",
+      "size": 314667280,
+      "sha256": "71257a4e717d9b3c8300ca8cd9adc479c5ec8b3014f22989b60c57f67f5d45ab",
+      "unpackedSize": 1092071568
     }
   },
-  "signature": "zVp4xi4eRsSrC+JHJoN0SPHZl+bhi6dsv9kpGFNl4GuFkGu0pcZiA8eA9LroajcT5PHQMR139hfhOazh5NirAg=="
+  "signature": "ftNj8ptrc6Hg4hJme5Fw3Mx0Yk0Zu9brWl7uMFlDjt6SAuu9SDWdvZoN/syqpQEO7iXHvbi07SHMsQn4IyTzBg=="
 }
