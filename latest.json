@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.7.3",
+    "version": "0.7.4",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.60",
-    "publishedAt": "2026-10-23T11:21:47.408Z",
-    "expiresAt": "2027-10-23T11:21:47.409Z",
-    "notes": "升级至 OpenWork 0.18.60，保留微光模型、附件、聊天历史、画布和签名更新。继续固定 OpenCode 1.18.30，关闭自动迁移；补齐画布拖动的缺图提示及页面尺寸变化保护。Windows 安装包减少重复引擎文件。",
+    "publishedAt": "2026-10-28T17:42:04.023Z",
+    "expiresAt": "2027-10-28T17:42:04.024Z",
+    "notes": "默认模型改为 GPT-6.1 Terra（高推理档）；已明确选择的模型和档位保持不变，Terra 不可用时自动用原模型。生成前检查 Seedance 参考图、视频、音频的数量与时长，超限在报价前拦下；产品优先从画布游戏标签识别；画布没选游戏时不扣费，提示先设置标签再重提同一节点。读取画布和图片设上限，超大图片读预览。微光菜单新增 Terra 快速模式开关（默认关）。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.3/WeiguangAssistant-Setup-0.7.3-x64.exe",
-      "size": 314644507,
-      "sha256": "a7637f4efb31782d629782300aa34227cff41429fc2436cd28df06d78c9ddc84",
-      "unpackedSize": 1091992790
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.4/WeiguangAssistant-Setup-0.7.4-x64.exe",
+      "size": 314660533,
+      "sha256": "3e25d5cfa15796fc370ff7f3cd6b97a9a1fc0856691e52c1c9dd5580f8c57c9c",
+      "unpackedSize": 1092072442
     }
   },
-  "signature": "gUpQ4RFi6H+fBFfwFV3NgPzoLEWKOpP00mAWNusGr4ewmYL0nVLV7Xazi3P24jymakYcYTY7J2HRaFA6BHoZBw=="
+  "signature": "zVp4xi4eRsSrC+JHJoN0SPHZl+bhi6dsv9kpGFNl4GuFkGu0pcZiA8eA9LroajcT5PHQMR139hfhOazh5NirAg=="
 }
