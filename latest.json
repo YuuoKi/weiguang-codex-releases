@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.7.5",
+    "version": "0.7.6",
     "minimumCurrentVersion": "0.4.3",
-    "upstreamVersion": "0.18.60",
-    "publishedAt": "2026-10-28T19:04:02.769Z",
-    "expiresAt": "2027-10-28T19:04:02.771Z",
-    "notes": "新聊天默认改回 Gemini 3.8 Flash（中档）。0.7.4 自动换成 Terra 的默认改回 Flash，你自己选过的模型和档位不变；Terra 仍可在模型菜单里选。已有聊天不改。0.7.4 的生成防护、产品识别和大图预览全部保留。",
+    "upstreamVersion": "0.18.63",
+    "publishedAt": "2026-10-31T09:58:36.676Z",
+    "expiresAt": "2027-10-31T09:58:36.676Z",
+    "notes": "加强画布编辑接管、读回、保存失败和退出保护，调整聊天布局与锚点。更新OpenWork至0.18.63、引擎1.18.33，默认关闭电脑操控。修复同聊天切到Terra时历史工具编号过长的错误，补齐新版中文文案。保留原默认模型、聊天、项目及数据目录。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.5/WeiguangAssistant-Setup-0.7.5-x64.exe",
-      "size": 314667280,
-      "sha256": "71257a4e717d9b3c8300ca8cd9adc479c5ec8b3014f22989b60c57f67f5d45ab",
-      "unpackedSize": 1092071568
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.6/WeiguangAssistant-Setup-0.7.6-x64.exe",
+      "size": 315026453,
+      "sha256": "8b76f7783722327073004772733161b919213fffbeef32f216c004161e084528",
+      "unpackedSize": 1094121572
     }
   },
-  "signature": "ftNj8ptrc6Hg4hJme5Fw3Mx0Yk0Zu9brWl7uMFlDjt6SAuu9SDWdvZoN/syqpQEO7iXHvbi07SHMsQn4IyTzBg=="
+  "signature": "go5uE6bFqrBdLV1uYIUtMvL/yIB63iRpLVqt5zYfkBBLr6TT/fPZY2fhlg8NuzhXEzpHlninE2LKEGAmT0mMBA=="
 }
