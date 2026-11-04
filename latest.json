@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.7.7",
+    "version": "0.7.8",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-03T07:47:22.167Z",
-    "expiresAt": "2027-11-03T07:47:22.168Z",
-    "notes": "开工自动带上中台已确认的产品创意标准",
+    "publishedAt": "2026-11-04T00:50:44.744Z",
+    "expiresAt": "2027-11-04T00:50:44.744Z",
+    "notes": "创意结构学习升级：开工带上结构模板、热梗和本人经验；支持批量看片、无头任务及更顺畅的画布与错误提示。创意标准仍由本人确认，设计师生成报价确认和防重复提交保持。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.7/WeiguangAssistant-Setup-0.7.7-x64.exe",
-      "size": 315054680,
-      "sha256": "40b4e18528125e666fe8cad88f346d7cdad08f28f3f16ff92b7bfd2824cf898b",
-      "unpackedSize": 1094248121
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.8/WeiguangAssistant-Setup-0.7.8-x64.exe",
+      "size": 315104033,
+      "sha256": "70ebb267abe71c4010b928b00d3fd8a60804b59ce9c73bfb43223b9b18e0bf58",
+      "unpackedSize": 1094414364
     }
   },
-  "signature": "9cXW/xDK9Izhtlf7eUynfmXfPGnQKe33W84csgnsev/Q7YY0okyaoNcgLHqCFw1gcHpSZKyEejy5ozQHL0sfCg=="
+  "signature": "DqkeSRauXH/qwQI9MD+9P+rr0Isa0c/FR0nw0FKSnnO7fxV8SVeZgXr7GCHZnsT+nTA4OAfYrov6CGXuEtTZAQ=="
 }
