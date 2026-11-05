@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.7.8",
+    "version": "0.7.9",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-04T00:50:44.744Z",
-    "expiresAt": "2027-11-04T00:50:44.744Z",
-    "notes": "创意结构学习升级：开工带上结构模板、热梗和本人经验；支持批量看片、无头任务及更顺畅的画布与错误提示。创意标准仍由本人确认，设计师生成报价确认和防重复提交保持。",
+    "publishedAt": "2026-11-05T18:52:17.835Z",
+    "expiresAt": "2027-11-05T18:52:17.836Z",
+    "notes": "暖纸浅色与暖炭深色界面，改进标题栏和画布入口，窄窗设置文字正常排版；修复Gemini 4慢响应被4分钟保护提前停止的问题，现按模型保留15分钟等待。主动停止、生成报价确认与防重复提交保持。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.8/WeiguangAssistant-Setup-0.7.8-x64.exe",
-      "size": 315104033,
-      "sha256": "70ebb267abe71c4010b928b00d3fd8a60804b59ce9c73bfb43223b9b18e0bf58",
-      "unpackedSize": 1094414364
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.7.9/WeiguangAssistant-Setup-0.7.9-x64.exe",
+      "size": 315181000,
+      "sha256": "e236b4f71ed9679cd85b732b3af01cbb6ee2c27d4724753fca92a2fa4967f36a",
+      "unpackedSize": 1094675714
     }
   },
-  "signature": "DqkeSRauXH/qwQI9MD+9P+rr0Isa0c/FR0nw0FKSnnO7fxV8SVeZgXr7GCHZnsT+nTA4OAfYrov6CGXuEtTZAQ=="
+  "signature": "JBTltd7Vdl1X59wdQGg1j/rTWj/bmaGDPlgT3ODE2LNBHnNhRhCYLU5eEelhMEc7D6IfEtDVD18sWFsJyRFNBg=="
 }
