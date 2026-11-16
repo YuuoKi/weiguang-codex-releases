@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-15T18:45:33.490Z",
-    "expiresAt": "2027-11-15T18:45:33.490Z",
-    "notes": "付费生成默认自动提交，微光运行期间自动管理当前画布授权并在退出或关闭工作区时恢复逐次确认（保留单轮 60 个、24 小时 600 个产出的防失控保护，停止或说不要时回到手动确认）；分镜候选支持 30 秒无操作默认采用并自动续做建卡（打字、点卡或按停止立即取消倒计时）；新聊天默认使用 Gemini 4 Hydrogen；新增“只写 Seedance 提示词”专用写法路由与免费本地自检工具 weiguang_prompt_check。升级沿用现有配置、凭据与数据库自动备份回滚流程。",
+    "publishedAt": "2026-11-16T03:22:52.128Z",
+    "expiresAt": "2027-11-16T03:22:52.129Z",
+    "notes": "修复拒绝生成和只写提示词的句式识别，停止或新任务取消旧分镜续做；切换连接时先取消在途画布续签再清理登录状态；个人创意分节按本轮中台读取，生成前核对实际下发与注入的内容摘要。沿用每轮60、24小时600产出的防失控限制与现有升级备份和回退流程。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.2/WeiguangAssistant-Setup-0.8.2-x64.exe",
-      "size": 315378246,
-      "sha256": "d6446f458082de5864cfd50a0ef20c26eef8d84810675c8e521ee3f3d7fe9e56",
-      "unpackedSize": 1095213601
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.3/WeiguangAssistant-Setup-0.8.3-x64.exe",
+      "size": 315373270,
+      "sha256": "fc8291eb59800711767bf5a024da834af7c13daa083226fe072876f15dedb97c",
+      "unpackedSize": 1095219427
     }
   },
-  "signature": "b2CRP1AbdAmKR8tgmezbWIi6yYrImqhsYYxjtjfp+eC9P+qLoJnTpJGZh/urzSgnNFDhXcyG/Q5EwqpMM9WzDA=="
+  "signature": "nASB36s2Zi+o+ncup1MHuA3U7LPeEtorvAZ2kivmaP6A0FCvUVlcZ6W0VwLEKqB4XgTIJJjRGObpK6h7SfuPCA=="
 }
