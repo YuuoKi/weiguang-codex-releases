@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.8.3",
+    "version": "0.8.4",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-16T03:22:52.128Z",
-    "expiresAt": "2027-11-16T03:22:52.129Z",
-    "notes": "修复拒绝生成和只写提示词的句式识别，停止或新任务取消旧分镜续做；切换连接时先取消在途画布续签再清理登录状态；个人创意分节按本轮中台读取，生成前核对实际下发与注入的内容摘要。沿用每轮60、24小时600产出的防失控限制与现有升级备份和回退流程。",
+    "publishedAt": "2026-11-17T07:04:40.145Z",
+    "expiresAt": "2027-11-17T07:04:40.146Z",
+    "notes": "更新微光画布网关模型目录：下架 Gemini 3.8 Flash 与 Kimi K3（自动平滑迁至 Gemini 4 Hydrogen / Argon 与 Kimi K3.1 Pro），上架 Gemini 4 Carbon、Kimi K3.1 Pro、Claude Haiku 5.5、GLM-5.3（纯文本）及受控账号专属的 Claude Opus 5.5；启用已实测验证的 Gemini 4 Hydrogen 原样视频理解与内部音视频转写。升级后启动页静默刷新目录，保留既有画布 Key、项目与聊天记录。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.3/WeiguangAssistant-Setup-0.8.3-x64.exe",
-      "size": 315373270,
-      "sha256": "fc8291eb59800711767bf5a024da834af7c13daa083226fe072876f15dedb97c",
-      "unpackedSize": 1095219427
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.4/WeiguangAssistant-Setup-0.8.4-x64.exe",
+      "size": 315374915,
+      "sha256": "1ca97b6b52ad429cdc9df05a78844bf04fdc6d38b4990e4e045511968e6583a0",
+      "unpackedSize": 1095232221
     }
   },
-  "signature": "nASB36s2Zi+o+ncup1MHuA3U7LPeEtorvAZ2kivmaP6A0FCvUVlcZ6W0VwLEKqB4XgTIJJjRGObpK6h7SfuPCA=="
+  "signature": "Ya5t+mWb0MxlkI11G6cgUBZHGfQz8NDZPlvdppAnNtAvOPqQ2H5PoQFka7bNpUiBAPv4HOUZ4QiV4FFoO57lDw=="
 }
