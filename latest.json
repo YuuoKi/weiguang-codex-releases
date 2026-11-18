@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.8.6",
+    "version": "0.8.7",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-18T17:54:53.627Z",
-    "expiresAt": "2027-11-18T17:54:53.627Z",
-    "notes": "修复部分旧项目历史列表无法加载和本机模式菜单闪烁，补充资料库、模型服务和画布连接状态的中文提示，精简模型列表，并修正明确拒绝画布操作时的判断。",
+    "publishedAt": "2026-11-18T19:19:14.323Z",
+    "expiresAt": "2027-11-18T19:19:14.323Z",
+    "notes": "画布生成的图片可以直接保存到当前项目，再按交付尺寸裁切导出。明确要求在旁边显示时，本轮会打开画布。修复画布刚打开时误导性的零计数，补全真实操作步骤与语音按钮的中文。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.6/WeiguangAssistant-Setup-0.8.6-x64.exe",
-      "size": 315577693,
-      "sha256": "698e14dc16920ffb57c40ad8db8f9d7084104b088cc8060ae33fe503bfc3b483",
-      "unpackedSize": 1095931772
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.7/WeiguangAssistant-Setup-0.8.7-x64.exe",
+      "size": 315579401,
+      "sha256": "9c000255d67ba1d32a6572a5bd56f4a8f36d27fe459cb86ad826e5f8cde6b483",
+      "unpackedSize": 1095936983
     }
   },
-  "signature": "T3JLJXwpar9jRtaayOZ4hrYyTz/VvikZpWhX0D3dPXTkhqbyTiUbr0bREZKiPRxwjjqXx1QE7i3kcQgI7QXqDA=="
+  "signature": "Xq7p3zzdcbXk3CYzbXNbpEFVGgqIFx8sQuq7gZk9asib1AWVRwAKAkmhYEIMRjc3qUrYwC+DLnNcQRNPJeDmAQ=="
 }
