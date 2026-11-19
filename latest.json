@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.8.8",
+    "version": "0.8.9",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-19T13:15:36.433Z",
-    "expiresAt": "2027-11-19T13:15:36.433Z",
-    "notes": "直接问「你现在不能在画布操作吗？」时，微光会先只读检查项目的画布连接与读取工具，再根据结果回答。普通聊天仍默认关闭画布工具。",
+    "publishedAt": "2026-11-19T19:14:11.130Z",
+    "expiresAt": "2027-11-19T19:14:11.130Z",
+    "notes": "识别「把这几张图传去量子」等上传说法，按原图处理。只要求检查上传规格时开放检查工具。补齐尺寸复用原聊天里的图片包和请求记录。聊天整理后仍然超限时及时暂停。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.8/WeiguangAssistant-Setup-0.8.8-x64.exe",
-      "size": 315576037,
-      "sha256": "4b88f23b0a133bcdd121a9a7de1d80f74c86a87221f12f73fbe95f7918000e28",
-      "unpackedSize": 1095943062
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.9/WeiguangAssistant-Setup-0.8.9-x64.exe",
+      "size": 315576551,
+      "sha256": "1217f954ccabf6c7f0f9c6d3da1dd981d86509f742d5b96aa5c42f66524c1b33",
+      "unpackedSize": 1095949066
     }
   },
-  "signature": "+Z8JO1fe9ww3+hBspkllCsWVWzv3BaUdLnwEQGlhv8IGSUzmwXGk5vczrVlzcdmtfGih8PE9++6N4LRMg7cGAw=="
+  "signature": "WGzSBxAIaTQfqobantR+3tf5U+BcKEuh6wZI9zV2clquqbS6+4jri7dHr8nawFjeRcoo7xQz4utKeTx4bFIXBg=="
 }
