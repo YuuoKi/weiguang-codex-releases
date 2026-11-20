@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.8.9",
+    "version": "0.8.10",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-19T19:14:11.130Z",
-    "expiresAt": "2027-11-19T19:14:11.130Z",
-    "notes": "识别「把这几张图传去量子」等上传说法，按原图处理。只要求检查上传规格时开放检查工具。补齐尺寸复用原聊天里的图片包和请求记录。聊天整理后仍然超限时及时暂停。",
+    "publishedAt": "2026-11-20T07:06:08.217Z",
+    "expiresAt": "2027-11-20T07:06:08.218Z",
+    "notes": "个人模型暂时不可用时保留原选择，恢复后可只读刷新。模型说明新增个人当日用量、日限额与剩余。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.9/WeiguangAssistant-Setup-0.8.9-x64.exe",
-      "size": 315576551,
-      "sha256": "1217f954ccabf6c7f0f9c6d3da1dd981d86509f742d5b96aa5c42f66524c1b33",
-      "unpackedSize": 1095949066
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.10/WeiguangAssistant-Setup-0.8.10-x64.exe",
+      "size": 315575768,
+      "sha256": "d5bf0094a9777a6b3c38aaa09ebf8e12e75527051ffe2bcb76df948e661407b8",
+      "unpackedSize": 1095958914
     }
   },
-  "signature": "WGzSBxAIaTQfqobantR+3tf5U+BcKEuh6wZI9zV2clquqbS6+4jri7dHr8nawFjeRcoo7xQz4utKeTx4bFIXBg=="
+  "signature": "RYkJSDacV66lsVjjZ6nHgwNqEzHDDdx7CXfF5gJfiGsWOEni7dnZ1+UMs7OjRpsYoQSWcdGUGDLM+whuNtUcAA=="
 }
