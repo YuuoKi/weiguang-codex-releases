@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.8.10",
+    "version": "0.9.0",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-20T07:06:08.217Z",
-    "expiresAt": "2027-11-20T07:06:08.218Z",
-    "notes": "个人模型暂时不可用时保留原选择，恢复后可只读刷新。模型说明新增个人当日用量、日限额与剩余。",
+    "publishedAt": "2026-11-21T10:00:16.810Z",
+    "expiresAt": "2027-11-21T10:00:16.810Z",
+    "notes": "支持读取中台双人审核通过的个人经验和分级核心经验包。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.8.10/WeiguangAssistant-Setup-0.8.10-x64.exe",
-      "size": 315575768,
-      "sha256": "d5bf0094a9777a6b3c38aaa09ebf8e12e75527051ffe2bcb76df948e661407b8",
-      "unpackedSize": 1095958914
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.9.0/WeiguangAssistant-Setup-0.9.0-x64.exe",
+      "size": 315577289,
+      "sha256": "7477b856457989bb7c6cf2b69f8c00f0e9306c39e5eb2bbfa4e34f9a606a24f9",
+      "unpackedSize": 1095966685
     }
   },
-  "signature": "RYkJSDacV66lsVjjZ6nHgwNqEzHDDdx7CXfF5gJfiGsWOEni7dnZ1+UMs7OjRpsYoQSWcdGUGDLM+whuNtUcAA=="
+  "signature": "wTY1qHaltG4o71pOGMPQ9+ojrwYz4INVm97pbImyXIxZwO/j7d69wkcnsOPEYiPDvL2/eChhaJh1+Q2o1CeBBA=="
 }
