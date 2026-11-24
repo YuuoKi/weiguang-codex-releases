@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-21T10:00:16.810Z",
-    "expiresAt": "2027-11-21T10:00:16.810Z",
-    "notes": "支持读取中台双人审核通过的个人经验和分级核心经验包。",
+    "publishedAt": "2026-11-24T13:00:11.648Z",
+    "expiresAt": "2027-11-24T13:00:11.648Z",
+    "notes": "支持免扩展直连本机 Chrome 144+、内置浏览器动态录屏页局部防误点与 Ctrl+滚轮缩放及下载自动落盘、本地图片直传画布、忙碌时一键新项目打开画布，以及大画布缓存与长对话主动开新聊天续接。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.9.0/WeiguangAssistant-Setup-0.9.0-x64.exe",
-      "size": 315577289,
-      "sha256": "7477b856457989bb7c6cf2b69f8c00f0e9306c39e5eb2bbfa4e34f9a606a24f9",
-      "unpackedSize": 1095966685
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.9.1/WeiguangAssistant-Setup-0.9.1-x64.exe",
+      "size": 318612510,
+      "sha256": "53b998fe00cb96246a42e410cb35c8bfe818ac5047fdf1ec3945e93f4c3613fe",
+      "unpackedSize": 1115368106
     }
   },
-  "signature": "wTY1qHaltG4o71pOGMPQ9+ojrwYz4INVm97pbImyXIxZwO/j7d69wkcnsOPEYiPDvL2/eChhaJh1+Q2o1CeBBA=="
+  "signature": "tulJeIFriDVGswckMGJLjlAF/ny+dy1v+6lWO8LCBJqkqiZrZacRE7lte1ch71BxUhFtJfko7qwHM2j3gCw4Bw=="
 }
