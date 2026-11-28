@@ -6,18 +6,18 @@
     "platform": "win32",
     "arch": "x64",
     "channel": "stable",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "minimumCurrentVersion": "0.4.3",
     "upstreamVersion": "0.18.63",
-    "publishedAt": "2026-11-27T07:14:11.309Z",
-    "expiresAt": "2027-11-27T07:14:11.309Z",
-    "notes": "最多可同时打开四个独立画布窗口，四个项目可以并行出图。再次打开同一张画布会回到原窗口。",
+    "publishedAt": "2026-11-28T11:08:09.041Z",
+    "expiresAt": "2027-11-28T11:08:09.042Z",
+    "notes": "修复画布加载失败时的提示和原窗口重试。工作台区分生成完成、可下载和已下载。模型用量保留小额精度，并可查看本人画布积分和消费。",
     "installer": {
-      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.9.3/WeiguangAssistant-Setup-0.9.3-x64.exe",
-      "size": 318629684,
-      "sha256": "8f58660922bad99e01240f06e9b60e776d1a885fcec0e64ce064ad951203c4bc",
-      "unpackedSize": 1115388328
+      "url": "https://github.com/YuuoKi/weiguang-codex-releases/releases/download/v0.9.4/WeiguangAssistant-Setup-0.9.4-x64.exe",
+      "size": 318687684,
+      "sha256": "0ab9132a37234ea8d12e190e742e6f3f8e2580b1e88805baa6d82e8855965f4d",
+      "unpackedSize": 1115733629
     }
   },
-  "signature": "3tmXj+tmhiFHFyzbSRiD4pSmMba+gVz7HmWD6eTYDRLZXPQ0mdJqlICaO7ywBkcrXk0W7VO+rarOsurJkSOIAQ=="
+  "signature": "U0IAOsiekzOcJkWobLtOfPLhJPlbLOt0kRmCBxiziwEdAQOICZKZlmHvnGfDryq6Gt79VRKzdO8o+L9W9eSxDA=="
 }
